@@ -13,7 +13,7 @@ There is my source code for the course.
 
 [**Week 4**](src/main/java/week4): MiniProject: Baby Names;
 
-[**Tests**](src/tests/java/): available for week 3 and week 4;
+[**Tests**](src/test/java/): available for week 3 and week 4;
 
 
 Good luck.
