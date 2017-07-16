@@ -1,8 +1,6 @@
 # Java-Programming-Solving-Problems-with-Software
 Assignments of Coursera Course "Java Programming: Solving Problems with Software".
 
-There is my source code for the course. 
-
 ##### Assignments:
 
 **Week 1**: Iterables in Java; <em>It was too easy. I decided not to create a branch.</em> 
@@ -15,5 +13,5 @@ There is my source code for the course.
 
 [**Tests**](src/test/java/): available for week 3 and week 4.
 
-
+---
 Good luck.
